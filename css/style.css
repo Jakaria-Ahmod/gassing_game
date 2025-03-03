@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-transform: capitalize;
+}
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to left, green, navy);
+  color: white;
+}
+
+h4 {
+  margin-top: 10px;
+  text-align: center;
+  color: red;
+  font-size: 12px;
+}
+
+#input2 {
+  display: none;
+}
+#btn2 {
+  display: none;
+}
