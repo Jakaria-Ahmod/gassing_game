@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   background: linear-gradient(to left, green, navy);
-  color: white;
+  /* color: white; */
 }
 
 h4 {
@@ -25,4 +25,8 @@ h4 {
 }
 #btn2 {
   display: none;
+}
+
+h2 {
+  color: white;
 }

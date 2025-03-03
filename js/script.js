@@ -36,9 +36,9 @@ btn2.addEventListener('click', () => {
 
   if (input_2_vlaue === input_value) {
     main.style.display = 'none';
-    document.body.innerHTML = '<h1>sucessfully you are winar</h1>';
+    document.body.innerHTML = '<h2>sucessfully you are winar</h2>';
   } else {
     // console.log('jakaria ahmod');
-    document.body.innerHTML = '<h1>opps! sorry try agin pliese</h1>';
+    document.body.innerHTML = '<h2>opps! sorry try agin pliese</h2>';
   }
 });
